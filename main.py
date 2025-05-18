@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+
 from extractors import (
     extract_emails,
     extract_urls,
