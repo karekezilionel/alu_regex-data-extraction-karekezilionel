@@ -27,7 +27,9 @@ This project uses **Regular Expressions (regex)** to extract various types of da
 Clone the repository:
 
    bash
+   
    git clone https://github.com/your-username/alu_regex-data-extraction-karekezilionel.git
+   
    cd alu_regex-data-extraction-karekezilionel
 
 ###Run the script:
