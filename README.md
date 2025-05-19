@@ -22,7 +22,7 @@ This project uses **Regular Expressions (regex)** to extract various types of da
 - Python 3.6 or higher  
 - Basic knowledge on how to run Python scripts from the command line
 
-### How to Run
+ **How to Run**
 
 Clone the repository:
 
