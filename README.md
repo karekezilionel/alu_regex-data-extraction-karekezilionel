@@ -21,3 +21,14 @@ This project uses **Regular Expressions (regex)** to extract various types of da
 
 - Python 3.6 or higher  
 - (Optional) A code editor such as VS Code or Vim
+
+    **EXAMPLE OUTPUT**
+
+
+
+![output](https://github.com/user-attachments/assets/d1b0ea86-ef94-4065-adf1-a6728dfeb21d)
+
+
+
+
+
