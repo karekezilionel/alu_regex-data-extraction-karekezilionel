@@ -42,8 +42,8 @@ python3 main.py
     **EXAMPLE OUTPUT**
 
 
+![Capture](https://github.com/user-attachments/assets/57c017ce-cc5d-4dd1-aebe-2bcccc536064)
 
-![output](https://github.com/user-attachments/assets/d1b0ea86-ef94-4065-adf1-a6728dfeb21d)
 
 Code Structure
 main.py — Main Python script containing regex patterns and extraction logic.
